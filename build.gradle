@@ -18,7 +18,7 @@ apply plugin: 'spring-boot'
 apply plugin: 'war'
 
 jar {
-    baseName = 'demo-web'
+    baseName = 'demo-portal'
     version = '0.0.1-SNAPSHOT'
 }
 
