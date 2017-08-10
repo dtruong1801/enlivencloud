@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Welcome to Enlivencloud Site
 
-You can use the [editor on GitHub](https://github.com/lattewalk/enlivencloud/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This project is to enlive inside cloud with all modern programming languages and inspire ourselves to code more.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Project One - AWS Enliven Potal 
+### Business workflow
+1. Login Page
+- Page Content
+user/password fields with OK/Cancel button
+- Login mechanism
+Support User/Password with local userstore
+Support OpenAuth to Facebook/LinkedIn/Twitter/Google
+2. User's Application Page
+Show applications that granted to the login user
+- Show users' social user info
+- Link to user's social media applications
+- Remeber my login session in desire peroid from same device or 
+- Advanced remeber the login device with extra permit action
 
-### Markdown
+### Main Techs
+SpringBoot Framework(Java), Bootstrap(JavaScript), Gradle(for packaging and build), AWS Service APIs
+Html5, CSS, ReactJS/Redux(Javascript)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lattewalk/enlivencloud/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
