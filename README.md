@@ -2,7 +2,7 @@
 
 This project is to enliven cloud concepts with all modern programming languages and inspire ourselves to code more.
 
-## Project One - AWS Enliven Potal
+## Project One - AWS Enliven Portal
 ### Business workflow
 1. Login Page
 #### Page Content
