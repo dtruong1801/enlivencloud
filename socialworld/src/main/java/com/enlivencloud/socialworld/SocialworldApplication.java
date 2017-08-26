@@ -1,12 +1,12 @@
-package com.enlivencloud;
+package com.enlivencloud.socialworld;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EnlivencloudApplication {
-  
+public class SocialworldApplication {
+
     public static void main(String[] args) {
-        SpringApplication.run(EnlivencloudApplication.class, args);
+        SpringApplication.run(SocialworldApplication.class, args);
     }
 }
